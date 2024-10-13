@@ -38,3 +38,4 @@
 
 ## Diagram
 
+![git branching](https://raw.githubusercontent.com/5pence/gitIntro/refs/heads/main/assets/images/git2.png)
