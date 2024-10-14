@@ -1,0 +1,25 @@
+/* 
+we use . for classes
+and # for id 
+this * targets everything 
+*/
+* {
+    font-size: 10px;
+}
+
+h2 {
+   text-transform: uppercase; 
+}
+
+.heading {
+    color: #f88008;
+}
+
+.info {
+    font-size: 20px;
+}
+
+#unique {
+    font-size: 20px;
+    color: lightcoral;
+}
